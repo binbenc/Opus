@@ -1,0 +1,18 @@
+./obj/local/arm64-v8a/objs/opus/src/extensions.o: src/extensions.c \
+  include/opus_types.h include/opus_defines.h celt/arch.h \
+  celt/fixed_generic.h celt/os_support.h src/opus_private.h \
+  include/opus.h celt/celt.h include/opus_custom.h celt/entenc.h \
+  celt/entcode.h celt/ecintrin.h celt/entdec.h
+include/opus_types.h:
+include/opus_defines.h:
+celt/arch.h:
+celt/fixed_generic.h:
+celt/os_support.h:
+src/opus_private.h:
+include/opus.h:
+celt/celt.h:
+include/opus_custom.h:
+celt/entenc.h:
+celt/entcode.h:
+celt/ecintrin.h:
+celt/entdec.h:

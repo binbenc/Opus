@@ -1,0 +1,19 @@
+./obj/local/x86/objs/opus/src/extensions.o: opus/src/extensions.c \
+  opus/include/opus_types.h opus/include/opus_defines.h opus/celt/arch.h \
+  opus/celt/fixed_generic.h opus/celt/os_support.h \
+  opus/src/opus_private.h opus/include/opus.h opus/celt/celt.h \
+  opus/include/opus_custom.h opus/celt/entenc.h opus/celt/entcode.h \
+  opus/celt/ecintrin.h opus/celt/entdec.h
+opus/include/opus_types.h:
+opus/include/opus_defines.h:
+opus/celt/arch.h:
+opus/celt/fixed_generic.h:
+opus/celt/os_support.h:
+opus/src/opus_private.h:
+opus/include/opus.h:
+opus/celt/celt.h:
+opus/include/opus_custom.h:
+opus/celt/entenc.h:
+opus/celt/entcode.h:
+opus/celt/ecintrin.h:
+opus/celt/entdec.h:
